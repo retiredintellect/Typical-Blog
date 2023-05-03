@@ -1,0 +1,62 @@
+/*CSS for Pacific Trails CH5
+Juliet Crocco
+10/3/22
+*/
+
+/*global styles*/
+body {
+    background-color: #ffffff;
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    /*configure background */
+    background-color: #002171;
+    background-image: url(images/pacific/sunset.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #ffffff; 
+    /* text properties */
+    color: #ffffff;
+    line-height: 400%;
+    text-indent: 1em;
+}
+h1 {
+    margin-bottom: 0;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+nav {
+    background-color: #bbdefb;
+    font-weight: bold;
+}
+nav a {
+    text-decoration: none;
+}
+
+h2 {
+    color: #1976d2;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #000033;
+
+}
+dt {
+    color: #002171;
+}
+footer {
+font-family: Georgia, 'Times New Roman', serif;
+font-size: 75%;
+font-style: italic;
+text-align: center;
+}
+
+/* classes and id */
+.resort {
+    color: #1976d2;
+    font-weight: bold;
+}
+
+#contact {
+    font-size: 90%;
+}
